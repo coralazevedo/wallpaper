@@ -115,7 +115,7 @@ h2 {
 }
 
 .process-p {
-  font-size: 1.4em;
+  font-size: 1.2em;
   margin-left: 1em;
   width: 65%;
 }
@@ -128,7 +128,7 @@ h2 {
 }
 
 .shiny-paper-p {
-  font-size: 1.4em;
+  font-size: 1.2em;
 display: inline;
   width: 49%;
   line-height: 1.8em;
@@ -141,15 +141,15 @@ display: inline;
 }
 
 .final-p {
-  font-size: 1.4em;
+  font-size: 1.2em;
 }
 
 .final-caption {
-  font-size: 1.4em;
+  font-size: 1.2em;
 }
 
 .sketches-p {
-  font-size: 1.4em;
+  font-size: 1.2em;
   margin-left: .5em;
   color: #808284;
   line-height: 1.8em;
